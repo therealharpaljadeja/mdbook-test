@@ -1,0 +1,6 @@
+[book]
+authors = ["cLabs"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Cel2 Specification"
